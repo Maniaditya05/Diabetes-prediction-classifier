@@ -1,5 +1,5 @@
 ## Diabetes Prediction Model
-This model helps in prediction of the diabetes. This model uses Bagging regression Model.
+This model helps in prediction of the diabetes. This model uses Logistic regression Model.
 
 ## Get Started
  ### The following is are the procedures to get you started.
